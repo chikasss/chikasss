@@ -6,8 +6,7 @@ I'm currently working at big tech company as a non-tech employee.<br>
 Looking for a new challenge / opportunity for myself related to what I learned in Le Wagon Tokyo! 
 </h4>
 
-
-- 🏍️ Visit PWA we made in Team project at Le Wagon: [Gremlin Bell](https://www.gremlin-bell.bike/)
+- 🏍️ Visit PWA I made with my team mates at Le Wagon: [Gremlin Bell](https://www.gremlin-bell.bike/)
 
 - 🧠 What I learned and used the skill in app: **Ruby, Ruby on Rails, Java Script, Mapbox API, cloudinary, Heroku**
 
