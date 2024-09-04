@@ -8,7 +8,7 @@ Looking for a new challenge / opportunity for myself related to what I learned i
 
 - 🏍️ Visit PWA I made with my team mates at Le Wagon: [Gremlin Bell](https://www.gremlin-bell.bike/)
 
-- 🧠 What I learned and used the skill in app: **Ruby, Ruby on Rails, Java Script, Mapbox API, cloudinary, Heroku**
+- 🧠 I used those skill in app: **Ruby, Ruby on Rails, Java Script, Mapbox API, cloudinary, Heroku**
 
 - 🌱 After graduate from Le Wagon, I'm curious and want to learn more about **React, Swift, Python**
 
