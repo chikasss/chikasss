@@ -12,7 +12,7 @@ Looking for a new challenge / opportunity for myself related to what I learned i
 
 - 🌱 After graduate from Le Wagon, I'm curious and want to learn more about **React, Swift, Python**
 
-- 📮 Feel free to reach me **c.sakai1101@gmail.com** or [LinkedIn](https://www.linkedin.com/in/chika-s-1b669012b/)
+- 📮 Feel free to reach me via **c.sakai1101@gmail.com** or [LinkedIn](https://www.linkedin.com/in/chika-s-1b669012b/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chikasss" alt="chikasss" /></a> </p>
 
