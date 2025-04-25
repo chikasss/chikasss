@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Chika 🙋🏻‍♀️</h1>
-<h3 align="center">Junior system engineer since Jan 2025 after graduated Le Wagon Tokyo Coding School</h3>
+<h3 align="center">Junior web developer since Jan 2025 after graduated Le Wagon Tokyo Coding School</h3>
 
 <h4 align="center">
 Just started new career as engineer this Jan 2025 after graduated Le Wagon Tokyo coding school at August 2024. <br>
